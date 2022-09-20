@@ -1,0 +1,30 @@
+Agenda
+=======
+
+
+Git -->add/clone/push/commit
+
+git clone URL;
+git add <file name> *; -->adding to local repo
+git commit -m "Msg" --> commiting to local repo-->LOCAL
+git push --> code will be avalable in git 
+
+
+
+Creating spring boot project with devtools and accutuater dependencyes with Helloworld with date display
+
+
+Approach
+========
+
+http://localhost:2022/date
+http://localhost:2022/welcome
+
+
+
+GIT
+====
+https://github.com/vamsi2773/HelloworldWithDate
+
+
+
